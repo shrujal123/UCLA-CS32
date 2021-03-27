@@ -1,0 +1,12 @@
+﻿  StudentSpellCheck.cpp
+  StudentTextEditor.cpp
+C:\Users\Shrujal Ambati\OneDrive - UCLA IT Services\UCLA_WinterQuarter_2021-TABLET-LI7RRM55\CS32\Wurd\Wurd\StudentTextEditor.cpp(101,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Shrujal Ambati\OneDrive - UCLA IT Services\UCLA_WinterQuarter_2021-TABLET-LI7RRM55\CS32\Wurd\Wurd\StudentTextEditor.cpp(112,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Shrujal Ambati\OneDrive - UCLA IT Services\UCLA_WinterQuarter_2021-TABLET-LI7RRM55\CS32\Wurd\Wurd\StudentTextEditor.cpp(129,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Shrujal Ambati\OneDrive - UCLA IT Services\UCLA_WinterQuarter_2021-TABLET-LI7RRM55\CS32\Wurd\Wurd\StudentTextEditor.cpp(172,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Shrujal Ambati\OneDrive - UCLA IT Services\UCLA_WinterQuarter_2021-TABLET-LI7RRM55\CS32\Wurd\Wurd\StudentTextEditor.cpp(223,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Shrujal Ambati\OneDrive - UCLA IT Services\UCLA_WinterQuarter_2021-TABLET-LI7RRM55\CS32\Wurd\Wurd\StudentTextEditor.cpp(236,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Shrujal Ambati\OneDrive - UCLA IT Services\UCLA_WinterQuarter_2021-TABLET-LI7RRM55\CS32\Wurd\Wurd\StudentTextEditor.cpp(297,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Wurd.vcxproj -> C:\Users\Shrujal Ambati\OneDrive - UCLA IT Services\UCLA_WinterQuarter_2021-TABLET-LI7RRM55\CS32\Wurd\x64\Debug\Wurd.exe
